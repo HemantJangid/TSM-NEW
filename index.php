@@ -7,6 +7,7 @@
 
 <body>
     <?php include('./components/navbar.php') ?>
+
     <section id="hero">
         <img src="./img/design/rect.svg" alt="" class="rect">
         <img src="./img/design/tri.svg" alt="" class="tri">
@@ -118,7 +119,6 @@
     </section>
 
     <?php include('./components/footer.php') ?>
-
 </body>
 
 </html>

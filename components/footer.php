@@ -21,9 +21,9 @@
             </div>
             <div class="col-lg-2 col-md-6 col-sm-6 mb-5">
                 <h3>Our Social</h3>
-                <a class="footer-social mr-3" href=""><i class="fab fa-facebook-square"></i></a>
-                <a class="footer-social mr-3" href=""><i class="fab fa-instagram-square"></i></a>
-                <a class="footer-social mr-3" href=""><i class="fab fa-linkedin"></i></a>
+                <a class="footer-social mr-3" href="https://www.facebook.com/thesimplemarketing02"><i class="fab fa-facebook-square"></i></a>
+                <a class="footer-social mr-3" href="https://www.instagram.com/thesimple.marketing/"><i class="fab fa-instagram-square"></i></a>
+                <a class="footer-social mr-3" href="https://www.linkedin.com/company/the-simple-marketing/"><i class="fab fa-linkedin"></i></a>
             </div>
         </div>
     </div>
