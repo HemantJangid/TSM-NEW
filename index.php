@@ -20,7 +20,7 @@
             <h2 data-aos="fade-up" data-aos-delay="800" class="mb-5">You got to find the
                 people
                 who need it and pitch it right</h2>
-            <a data-aos="fade-up" data-aos-delay="1200" class="tsm-btn" href="">
+            <a data-aos="fade-up" data-aos-delay="1200" class="tsm-btn" href="portfolio.php">
                 <div class="tsm-btn-box center">Our Work</div>
             </a>
         </div>
@@ -39,7 +39,7 @@
                         <h1>Grow Bigger As a company</h1>
                         <h2>Get more <span class="pri-color">traffic</span>
                             and <span class="pri-color">leads</span></h2>
-                        <a class="tsm-btn mb-5 mb-5" href="">
+                        <a class="tsm-btn mb-5 mb-5" href="services.php">
                             <div class="tsm-btn-box center">Our Services</div>
                         </a>
                     </div>
@@ -51,7 +51,7 @@
                         <h1>Plan Better for Greater Success</h1>
                         <h2>Get better <span class="pri-color">Sales</span>
                             results and <span class="pri-color">Perceived</span> better</h2>
-                        <a class="tsm-btn mb-5 mb-5" href="">
+                        <a class="tsm-btn mb-5 mb-5" href="services.php">
                             <div class="tsm-btn-box center">Our Services</div>
                         </a>
                     </div>
@@ -63,7 +63,7 @@
                         <h1>Strategize Smarter for Productivity</h1>
                         <h2>Get better <span class="pri-color">Sales</span>
                             results and <span class="pri-color">Perceived</span> better</h2>
-                        <a class="tsm-btn mb-5 mb-5" href="">
+                        <a class="tsm-btn mb-5 mb-5" href="services.php">
                             <div class="tsm-btn-box center">Our Services</div>
                         </a>
                     </div>
@@ -82,7 +82,7 @@
                     laptops. Bringing
                     the best on the table for you, we have a team of powerful thinkers who are dedicated to transform
                     ideas into messages.</p>
-                <a class="tsm-btn" href="">
+                <a class="tsm-btn" href="about.php">
                     <div class="tsm-btn-box center">Our Team</div>
                 </a>
                 <img data-aos="fade-down" data-aos-delay="1000" src="./img/design/rectdot.svg" alt="" class="rect-dot">
